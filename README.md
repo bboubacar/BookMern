@@ -2,9 +2,9 @@
 
 ## This app is divided in 2 parts (backend, frontend)
 
-> First clone it by run this in to your terminal <br/> > `git clone https://github.com/bboubacar/BookMern.git`
+> First clone it by running this in to your terminal <br/> > `git clone https://github.com/bboubacar/BookMern.git`
 
-## Backend
+### Backend
 
 > Move to the backend folder
 > `cd backend`
@@ -15,7 +15,7 @@
 
 > Run the backend part <br/> > `npm run start`
 
-## Frontend
+### Frontend
 
 > Move to the frontend folder
 > `cd frontend`
